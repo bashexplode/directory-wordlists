@@ -2,6 +2,7 @@
 60
 1033
 3082
+.htaccess
 _admin
 _admin/operations.aspx
 _app_bin
@@ -16,6 +17,7 @@ _catalogs/wp/forms/allitems.aspx
 _catalogs/wt/
 _catalogs/wt/forms/common.aspx
 _controltemplates
+_fpclass
 _layouts
 _layouts/
 _layouts/1033
@@ -1818,6 +1820,7 @@ _layouts/WSRPMarkupProxy.aspx
 _layouts/XlateWfAssoc.aspx
 _layouts/XLViewer.aspx
 _layouts/zoombldr.aspx
+_private
 _VTI_ADM
 _vti_adm/admin.asmx
 _VTI_AUT
@@ -1925,9 +1928,12 @@ _vti_bin/Webswsdl.aspx
 _vti_bin/workflow.asmx
 _vti_bin/wsdisco.aspx
 _vti_bin/wswsdl.aspx
+_vti_cnf
 _vti_inf.html
 _vti_inf.html 
+_vti_log
 _vti_pvt
+_vti_txt
 _wpresources
 accessdenied.aspx
 AccessDeniedPage.aspx
@@ -1944,7 +1950,9 @@ addrole.aspx
 addservernamemappings.aspx
 addwrkfl.aspx
 admin.dll
+admin.exe
 admin/_layouts
+administrators.pwd
 adminrecyclebin.aspx
 advsetng.aspx
 AlertDirectory.aspx
@@ -1987,6 +1995,9 @@ auditsettings.aspx
 audpicker.js
 authenticate.aspx
 author.dll
+author.exe
+author.log
+authors.pwd
 autocat.aspx
 avreport.aspx
 AVREPORT.HTM
@@ -2018,6 +2029,7 @@ CategoryPickerPopUp.aspx
 CatMan.aspx
 CatPP1.aspx
 centraldatabaselock.aspx
+cgi-bin
 changecontenttypeoptionalsettings.aspx
 changecontenttypeorder.aspx
 changefieldorder.aspx
@@ -2060,6 +2072,7 @@ customizereport.aspx
 CVTP.JS
 deactivatefeature.aspx
 Default.aspx
+default.htm
 DeleteMu.aspx
 deleteweb.aspx
 directory/_layouts/
@@ -2259,6 +2272,8 @@ formserver.aspx
 formserverattachments.aspx
 formserverdetector.aspx
 Formswsdl.aspx
+fpadmdll.dll
+frontpg.ini
 gear.aspx
 genericpicker.aspx
 getdataconnectionfile.aspx
@@ -2286,6 +2301,7 @@ IE50UP.JS
 IE55UP.JS
 iframe.aspx
 IFRAME.HTM
+iisadmin
 images/
 Imaging.asmx
 Imagingdisco.aspx
@@ -2300,6 +2316,7 @@ INSTABLE.HTM
 inurl:/_layouts/listedit.aspx
 irm.aspx
 irmrept.aspx
+isadmin
 itemrwfassoc.aspx
 ITP.JS
 iviewhost.aspx
@@ -2324,6 +2341,7 @@ listservernamemappings.aspx
 Listswsdl.aspx
 listsyndication.aspx
 login.aspx
+logo.gif
 LogSummary.aspx
 LogViewer.aspx
 longrunningoperationprogress.aspx
@@ -2553,6 +2571,7 @@ publishback.aspx
 qlreord.aspx
 qstedit.aspx
 qstnew.aspx
+QUERYHIT.HTM
 Quicklinks.aspx
 quicklinksdialog.aspx
 quicklinksdialog2.aspx
@@ -2590,11 +2609,13 @@ rte2etable.aspx
 rte2pueditor.aspx
 rtedialog.aspx
 runreport.aspx
+samples
 savetmpl.aspx
 schema.aspx
 scope.aspx
 scopedisplaygroup.aspx
 scsignup.aspx
+Search
 search.asmx
 search.js
 searchandaddtohold.aspx
@@ -2615,6 +2636,8 @@ selectpicture.aspx
 selectpicture2.aspx
 SelectUser.aspx
 sendtoofficialfile.aspx
+service.grp
+service.pwd
 setanon.aspx
 SetImport.aspx
 setrqacc.aspx
@@ -2622,6 +2645,7 @@ settings.aspx
 shared documents/forms/allitems.aspx
 shropt.aspx
 SHTML.DLL
+shtml.exe
 signature.formserver.aspx
 signaturedetails.formserver.aspx
 signaturedetailsloader.formserver.aspx
@@ -2700,6 +2724,7 @@ spusagewebhomepage.aspx
 spusagewebreferrers.aspx
 spusagewebtoppages.aspx
 spusagewebusers.aspx
+srchadm
 srchrss.aspx
 srchvis.aspx
 SRMan.aspx
@@ -2841,6 +2866,7 @@ UserPicker.aspx
 UserProfileService.asmx
 UserProfileServicedisco.aspx
 UserProfileServicewsdl.aspx
+users.pwd
 variationexport.aspx
 variationlabel.aspx
 variationlabels.aspx
