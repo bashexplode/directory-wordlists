@@ -27,3 +27,7 @@
 :49443/FederationMetadata/2007-06
 :49443/adfs/oauth2/authorize/
 :49443/adfs/ls
+/adfs/portal/images/theme/light01/profile.webp
+/adfs/portal/images/theme/light01/background.webp
+/adfs/portal/images/theme/light01/logo.webp
+/adfs/services/trust/2005/samlmixed/upload
